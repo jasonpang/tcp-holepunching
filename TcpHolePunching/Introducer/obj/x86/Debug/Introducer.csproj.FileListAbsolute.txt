@@ -1,0 +1,7 @@
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\bin\Debug\Introducer.exe
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\bin\Debug\Introducer.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\obj\x86\Debug\Introducer.exe
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\obj\x86\Debug\Introducer.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\bin\Debug\TcpHolePunching.dll
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\bin\Debug\TcpHolePunching.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\Introducer\obj\x86\Debug\Introducer.csprojResolveAssemblyReference.cache

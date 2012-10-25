@@ -1,0 +1,113 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B0C3DD03-FE40-4123-85D4-81E812A052D0/f:Program.cs" caret="0" fromTop="0" />
+      <File id="505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD/f:NLog.config" caret="0" fromTop="0" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:OnConnectionAcceptedEventArgs.cs" caret="275" fromTop="11" />
+      <File id="505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD/f:Program.cs" caret="297" fromTop="12" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="1955" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="247" fromTop="9" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2412" fromTop="21" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2474" fromTop="16" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2308" fromTop="12" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2308" fromTop="7" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2308" fromTop="20" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2588" fromTop="5" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:OnConnectionAcceptedEventArgs.cs" caret="275" fromTop="11" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2308" fromTop="15" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="1476" fromTop="7" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="1677" fromTop="14" />
+      <File id="505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD/f:Program.cs" caret="243" fromTop="9" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="1051" fromTop="11" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="443" fromTop="8" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="701" fromTop="15" />
+      <File id="A1563FA0-04C7-4818-9D95-FE6383C62F22/f:TcpIntroducer.cs" caret="2295" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="tcpListener" priority="31" />
+      <Item value="private" priority="95" />
+      <Item value="public" priority="255" />
+      <Item value="TcpIntroducer`0" priority="31" />
+      <Item value="void" priority="127" />
+      <Item value="Socket" priority="159" />
+      <Item value="SocketShutdown`0" priority="31" />
+      <Item value="task" priority="63" />
+      <Item value="event" priority="31" />
+      <Item value="EventHandler`0" priority="32" />
+      <Item value="OnConnectionAccepted" priority="90" />
+      <Item value="TcpIntroducer_OnConnectionAccepted`0" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="e" priority="31" />
+      <Item value="OnConnectionAcceptedEventArgs" priority="57" />
+      <Item value="Task`0" priority="31" />
+      <Item value="Task_OnConnectionAccepted`0" priority="31" />
+      <Item value="SocketAddress`0" priority="31" />
+      <Item value="StartListening`0" priority="31" />
+      <Item value="List" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="Socket`0" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="Registrants" priority="160" />
+      <Item value="registrant" priority="63" />
+      <Item value="socket" priority="63" />
+      <Item value="new" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.Socket">
+      <Item value="Shutdown`0" priority="26" />
+      <Item value="Close`0" priority="26" />
+      <Item value="AcceptAsync`0" priority="81" />
+      <Item value="BeginAccept`0" priority="27" />
+      <Item value="EndAccept`0" priority="27" />
+      <Item value="RemoteEndPoint" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Sockets.SocketShutdown">
+      <Item value="Both" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="StartNew`0" priority="26" />
+      <Item value="FromAsync`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="ContinueWith`0" priority="26" />
+      <Item value="Result" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task">
+      <Item value="RunSynchronously`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Contains`0" priority="26" />
+      <Item value="Where`1" priority="53" />
+      <Item value="Remove`0" priority="53" />
+      <Item value="ForEach`0" priority="22" />
+      <Item value="RemoveAll`0" priority="26" />
+      <Item value="FindAll`0" priority="26" />
+      <Item value="Count" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="26" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

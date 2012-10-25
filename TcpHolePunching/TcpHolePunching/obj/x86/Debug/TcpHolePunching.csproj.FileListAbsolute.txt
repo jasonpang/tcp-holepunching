@@ -1,0 +1,7 @@
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\bin\Debug\TcpHolePunching.dll
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\bin\Debug\TcpHolePunching.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\bin\Debug\NLog.dll
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\bin\Debug\NLog.xml
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\obj\x86\Debug\TcpHolePunching.dll
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\obj\x86\Debug\TcpHolePunching.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\TcpHolePunching\obj\x86\Debug\TcpHolePunching.csprojResolveAssemblyReference.cache

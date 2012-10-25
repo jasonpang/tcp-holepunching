@@ -1,0 +1,7 @@
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\bin\Debug\IdealServer.exe
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\bin\Debug\IdealServer.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\bin\Debug\TcpHolePunching.dll
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\bin\Debug\TcpHolePunching.pdb
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.exe
+C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.pdb
